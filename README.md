@@ -16,4 +16,4 @@ Dropbox: https://www.dropbox.com/s/upu6613n8zoxmcc/Get%20Started%20with%20Dropbo
 
 Google Drive: https://drive.google.com/file/d/0B4xsqlOT5MLrc3RhcnRlcl9maWxl/view?usp=sharing
 
-ShareLink: https://example.com/myResume
+ShareLink: https://example.com/myResume (Short n Easy to remember)
