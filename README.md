@@ -5,7 +5,7 @@ These	short URL's	are	easy to remember and share with friends.
 
 [![share.gy image.png](https://s29.postimg.org/jawov4fev/share_gy_image.png)](https://postimg.org/image/rgeqta3nn/)
 
-<h2> Homepage Screenshot </h2>
+<h2>Screenshot of Homepage</h2>
 
 [![IMG-20160801-WA0000.jpg](https://s29.postimg.org/hwjk6ynl3/IMG_20160801_WA0000.jpg)](https://postimg.org/image/agkal5zvn/)
 
