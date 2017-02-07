@@ -1,0 +1,14 @@
+User-agent:*
+
+Disallow:/*/*$
+Disallow:/*.*$
+Disallow:/*+$
+
+Allow:/*$
+Allow:Index.php
+Allow:TOS.php
+Allow:Signup.php
+Allow:Report.php
+Allow:About.php
+Allow:CreateNote.php
+Allow:Sitemap.xml

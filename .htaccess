@@ -1,1 +1,10 @@
-php_flag engine off
+RewriteEngine On
+
+RewriteRule ^sitemap.xml$ Sitemap.php [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI}  !^/index.php
+RewriteRule ^(.*)$ ContentPage/Content.php?shortURL=$1   [L]
+
+Options -Indexes
+
