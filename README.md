@@ -21,7 +21,11 @@ ShareLink: https://example.com/myResume (Short n Easy to remember)
 <h2>Advantages</h2>
 
 Convenience. (Custom URL)
+
 Anonymous. (No registration required)
+
 Multiple content types supported. ( Files, URL Shortening, Notes, Images, Files,	Music, Documents etc. )
+
 Ability to preview content before downloading. 
+
 Analytics
